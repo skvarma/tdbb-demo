@@ -1,4 +1,3 @@
-# tdbb-demo
 Covering
 Trailhead login
 Navigating Trailhead 
@@ -33,4 +32,4 @@ Metadata Extract
 
 ---------------
 User u = [Select Id from user where Name like '%kumar%' LIMIT 1];
-System.setPassword(u.id,'SFDC');
+System.setPassword(u.id,'SFDCpassword1');
