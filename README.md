@@ -1,5 +1,7 @@
 Covering
+MS Teams Channel - Salesforce Learning
 Trailhead login
+  - Navigate to Trail mix
 Navigating Trailhead 
     - Modules, Trails, Trailmixes
     - Certifications, Career Paths
